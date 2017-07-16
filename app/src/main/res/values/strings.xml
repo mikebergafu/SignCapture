@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sign Capture</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="msg_welcome">Welcome!\nThis App Allows You to capture information on signage and billboards, it also enables you to record the location of capture</string>
+    <string name="lbl_title">Signage Capture</string>
+    <string name="lbl_slogan">The Revenue Train</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_prev">Previous</string>
+    <string name="lbl_comp_name">Company Name</string>
+    <string name="lbl_phone">e.g 0204038261</string>
+    <string name="lbl_signage">Signage</string>
+    <string name="lbl_billboard">Billboard</string>
+    <string name="lbl_poster">Poster</string>
+    <string name="lbl_other">Other</string>
+    <string name="access_token">pk.eyJ1IjoiZGlnaXRhbGdsb2JlIiwiYSI6ImNqMzJ6anNydzAwNDgzMm5ycmN5MGdxcXAifQ.CtwiMjKIQHg2AdEOw5I8fQ</string>
+
+</resources>
